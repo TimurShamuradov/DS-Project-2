@@ -75,11 +75,6 @@ This project provides a thorough analysis of the job market with a special focus
     pip install sqlalchemy
     ```
 
-## Usage
-
-Open `DS_Project_2.ipynb` via Jupyter Notebook and run the cells to perform the analysis.
-
-
 
 ## Usage
 
